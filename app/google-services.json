@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "330683391842",
+    "project_id": "face-detection-1b68c",
+    "storage_bucket": "face-detection-1b68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330683391842:android:5c108887e58fab0183963b",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330683391842-k9enn3134qek3h4kbdpbpdr84msg79ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwuIQdzGOXqbjJGMxVUX90BOcotYRw_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330683391842-k9enn3134qek3h4kbdpbpdr84msg79ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330683391842:android:6805c82dbb37ce4783963b",
+        "android_client_info": {
+          "package_name": "com.login.beautyplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330683391842-k9enn3134qek3h4kbdpbpdr84msg79ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwuIQdzGOXqbjJGMxVUX90BOcotYRw_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330683391842-k9enn3134qek3h4kbdpbpdr84msg79ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
